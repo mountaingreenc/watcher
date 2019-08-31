@@ -16,8 +16,8 @@ If you want to get support please email to mountain.green.c@outlook.com
 监控系统运行，并记日志到服务器。  
 
 # 安装
-检出工程。
-**注意**: **必** **须** **给** watcherx32.sys和watcherx64.sys **签** **名**。
+检出工程。  
+**注意**: **必** **须** **给** watcherx32.sys和watcherx64.sys **签** **名**。  
 打开bin目录并运行setupUI.exe。  
 
 # 联系我
@@ -50,8 +50,8 @@ Schauen Sie sich das Projekt an
 Wenn Sie Support erhalten möchten, senden Sie bitte eine E-Mail an mountain.green.c@outlook.com
 
 # watcher
-記錄寫入磁片的資料，並在需要時返回過去 
-監視運行狀態的視窗並登錄到伺服器 
+記錄寫入磁片的資料，並在需要時返回過去。  
+監視運行狀態的視窗並登錄到伺服器。  
 
 • 安裝
 查看專案。  
